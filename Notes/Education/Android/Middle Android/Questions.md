@@ -1,63 +1,65 @@
 ### Unanswered questions
 
 1. Какая разница между проверяемыми и непроверяемыми исключениями?
+   [[Checked and unchecked exceptions]]
 
-2. Как остановить поток в Java?
+3. Как остановить поток в Java?
+   [[Android Process]]
 
-3. Паттерны проектирования.
+5. Паттерны проектирования.
 
-4. В чем разница методов run, let, apply, also, with, use?
+6. В чем разница методов run, let, apply, also, with, use?
 
-5. Что такое inline-функции и ключевое слово reified?
+7. Что такое inline-функции и ключевое слово reified?
 
-6. Какая разница между crossinline и noinline?
+8. Какая разница между crossinline и noinline?
 
-7. Объект-выражение
+9. Объект-выражение
 
-8. Приведите пример делегатов в Kotlin. (by delegate)
+10. Приведите пример делегатов в Kotlin. (by delegate)
 
-9. Тип Nothing
+11. Тип Nothing
 
-10. Какая польза от typealias? Во что он компилируется?
+12. Какая польза от typealias? Во что он компилируется?
 
-11. Value (бывшие inline) классы
+13. Value (бывшие inline) классы
 
-12. Когда необходимо использовать foreground service вместо обычного service?
+14. Когда необходимо использовать foreground service вместо обычного service?
 
-13. Что такое BroadcastReceiver и какие типы существуют?
+15. Что такое BroadcastReceiver и какие типы существуют?
 
-14. Что такое WorkManager? Когда его используем?
+16. Что такое WorkManager? Когда его используем?
 
-15. Разница между commit() и apply() в SharedPreferences?
+17. Разница между commit() и apply() в SharedPreferences?
 
-16. Объясните Scoped Storage в Android
+18. Объясните Scoped Storage в Android
 
-17. Как передавать Callback в Fragments
+19. Как передавать Callback в Fragments
 
-18. Что такое Multidex в Android?
+20. Что такое Multidex в Android?
 
-19. Что такое Job?
+21. Что такое Job?
 
-20. Что такое Dispatcher? Какие есть виды?
+22. Что такое Dispatcher? Какие есть виды?
 
-21. Что такое Scope?
+23. Что такое Scope?
 
-22. Объясните, как работает suspend-функция? Что такое continuation?
+24. Объясните, как работает suspend-функция? Что такое continuation?
 
-23. Как остановить/отменить Coroutines?
+25. Как остановить/отменить Coroutines?
 
-24. Flow debounce, zip, combine.
+26. Flow debounce, zip, combine.
 
-25. suspendCoroutine
+27. suspendCoroutine
 
-26. SideEffects
+28. SideEffects
 
-27. CompositionLocal
+29. CompositionLocal
 
-28. Что делает remember и rememberSavable в Composable?
+30. Что делает remember и rememberSavable в Composable?
 
-29. Как обрабатывать изменения ориентации в Jetpack Compose?
+31. Как обрабатывать изменения ориентации в Jetpack Compose?
 
-30. Что такое инверсия зависимости (dependency inversion)?
+32. Что такое инверсия зависимости (dependency inversion)?
 
-31. Что такое Multipart Request в сетевом взаимодействии?
+33. Что такое Multipart Request в сетевом взаимодействии?

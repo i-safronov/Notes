@@ -18,19 +18,17 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "5ddf8d54280cb203",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "471df2fdce6f181f",
+            "id": "e28e9312c3ebdab7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Education/Android/Knowledge Base/Middle Android/Process/Android Process.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -147,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,12 +157,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c00ebdf03a17375",
+  "active": "f7964523180f4ef7",
   "lastOpenFiles": [
+    "Education/Android/Knowledge Base/Middle Android/Process/Android Process.md",
+    "Education/Android/Middle Android/Questions.md",
+    "Education/Android/Knowledge Base/Middle Android/Process",
+    "Education/Android/Knowledge Base/Middle Android/Checked and unchecked exception/Checked and unchecked exceptions.md",
+    "Education/Android/Knowledge Base/Middle Android/Checked and unchecked exception/Pasted image 20240903062836.png",
+    "Education/Android/Knowledge Base/Middle Android/Checked and unchecked exception",
     "Education/Android/Knowledge Base/Middle Android",
     "Education/Android/Knowledge Base",
     "Welcome.md",
-    "Education/Android/Middle Android/Questions.md",
     "Education/Android/Middle Android",
     "Education/Android",
     "Education"
