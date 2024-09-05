@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "e28e9312c3ebdab7",
+            "id": "89c2d59a145b2b49",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9b6a7903188ca9e4",
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Android/Middle Android/Questions.md",
+                "file": "Education/Android/Knowledge Base/Middle Android/Process/Android Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Android/Middle Android/Questions.md",
+                "file": "Education/Android/Knowledge Base/Middle Android/Process/Android Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Android/Middle Android/Questions.md"
+                "file": "Education/Android/Knowledge Base/Middle Android/Process/Android Process.md"
               }
             }
           }
@@ -145,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,10 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7964523180f4ef7",
+  "active": "89c2d59a145b2b49",
   "lastOpenFiles": [
-    "Education/Android/Knowledge Base/Middle Android/Process/Android Process.md",
     "Education/Android/Middle Android/Questions.md",
+    "Education/Android/Knowledge Base/Middle Android/Process/Android Process.md",
     "Education/Android/Knowledge Base/Middle Android/Process",
     "Education/Android/Knowledge Base/Middle Android/Checked and unchecked exception/Checked and unchecked exceptions.md",
     "Education/Android/Knowledge Base/Middle Android/Checked and unchecked exception/Pasted image 20240903062836.png",
