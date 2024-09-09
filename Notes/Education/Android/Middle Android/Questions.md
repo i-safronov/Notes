@@ -10,58 +10,59 @@
    [[Design Patterns]]
 
 7. В чем разница методов run, let, apply, also, with, use?
-		[[]]
+		[[run, let, apply, also, with, use]]
 
 9. Что такое inline-функции и ключевое слово reified?
+		[[]]
 
-10. Какая разница между crossinline и noinline?
+11. Какая разница между crossinline и noinline?
 
-11. Объект-выражение
+12. Объект-выражение
 
-12. Приведите пример делегатов в Kotlin. (by delegate)
+13. Приведите пример делегатов в Kotlin. (by delegate)
 
-13. Тип Nothing
+14. Тип Nothing
 
-14. Какая польза от typealias? Во что он компилируется?
+15. Какая польза от typealias? Во что он компилируется?
 
-15. Value (бывшие inline) классы
+16. Value (бывшие inline) классы
 
-16. Когда необходимо использовать foreground service вместо обычного service?
+17. Когда необходимо использовать foreground service вместо обычного service?
 
-17. Что такое BroadcastReceiver и какие типы существуют?
+18. Что такое BroadcastReceiver и какие типы существуют?
 
-18. Что такое WorkManager? Когда его используем?
+19. Что такое WorkManager? Когда его используем?
 
-19. Разница между commit() и apply() в SharedPreferences?
+20. Разница между commit() и apply() в SharedPreferences?
 
-20. Объясните Scoped Storage в Android
+21. Объясните Scoped Storage в Android
 
-21. Как передавать Callback в Fragments
+22. Как передавать Callback в Fragments
 
-22. Что такое Multidex в Android?
+23. Что такое Multidex в Android?
 
-23. Что такое Job?
+24. Что такое Job?
 
-24. Что такое Dispatcher? Какие есть виды?
+25. Что такое Dispatcher? Какие есть виды?
 
-25. Что такое Scope?
+26. Что такое Scope?
 
-26. Объясните, как работает suspend-функция? Что такое continuation?
+27. Объясните, как работает suspend-функция? Что такое continuation?
 
-27. Как остановить/отменить Coroutines?
+28. Как остановить/отменить Coroutines?
 
-28. Flow debounce, zip, combine.
+29. Flow debounce, zip, combine.
 
-29. suspendCoroutine
+30. suspendCoroutine
 
-30. SideEffects
+31. SideEffects
 
-31. CompositionLocal
+32. CompositionLocal
 
-32. Что делает remember и rememberSavable в Composable?
+33. Что делает remember и rememberSavable в Composable?
 
-33. Как обрабатывать изменения ориентации в Jetpack Compose?
+34. Как обрабатывать изменения ориентации в Jetpack Compose?
 
-34. Что такое инверсия зависимости (dependency inversion)?
+35. Что такое инверсия зависимости (dependency inversion)?
 
-35. Что такое Multipart Request в сетевом взаимодействии?
+36. Что такое Multipart Request в сетевом взаимодействии?
