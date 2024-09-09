@@ -99,3 +99,59 @@ class UserObservable {
 }
 ```
 
+## Facade 
+Фасад - паттерн проектирования который служит для того, что упростить взаимодействие юзера(программиста) с основным API, то есть в один класс мы инкапсулируем логику работы с другими классами тем самым упрощая работу юзеру, так как он будет использовать наш класс
+
+Пример: 
+```Kotlin
+class CPU {  
+    var isBusy: Boolean = false  
+  
+    fun doWork() {  
+        isBusy = false  
+        isBusy = true  
+    }  
+  
+}  
+  
+class RAM(  
+    private val cpu: CPU  
+) {  
+    fun write(): Boolean {  
+        if (cpu.isBusy) {  
+            return false  
+        }  
+  
+        cpu.doWork()  
+        return true  
+    }  
+}  
+  
+class Driver(  
+    private val ram: RAM  
+) {  
+    fun init() {  
+        ram.write()  
+    }  
+}  
+  
+class Facade {  
+    private val cpu = CPU()  
+    private val ram = RAM(cpu = cpu)  
+    private val driver = Driver(ram = ram)  
+  
+    fun start() {  
+        cpu.doWork()  
+        driver.init()  
+        ram.write()  
+    }  
+  
+}  
+  
+fun main() {  
+    val facade = Facade()  
+    facade.start()  
+    println("This PC is working right now ...")  
+}
+```
+
