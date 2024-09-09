@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Android/Middle Android/Questions.md",
+                "file": "Education/Android/Knowledge Base/Middle Android/run, let, apply, also, with, use/run, let, apply, also, with, use.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Android/Knowledge Base/Middle Android/Design Patterns/Design Patterns.md",
+                "file": "Education/Android/Middle Android/Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Android/Knowledge Base/Middle Android/Design Patterns/Design Patterns.md",
+                "file": "Education/Android/Knowledge Base/Middle Android/run, let, apply, also, with, use/run, let, apply, also, with, use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Android/Knowledge Base/Middle Android/Design Patterns/Design Patterns.md",
+                "file": "Education/Android/Knowledge Base/Middle Android/run, let, apply, also, with, use/run, let, apply, also, with, use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Android/Knowledge Base/Middle Android/Design Patterns/Design Patterns.md"
+                "file": "Education/Android/Knowledge Base/Middle Android/run, let, apply, also, with, use/run, let, apply, also, with, use.md"
               }
             }
           }
@@ -172,13 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b510da5ca85ecc8a",
+  "active": "c90a0cdc1f8ebbcf",
   "lastOpenFiles": [
     "Education/Android/Middle Android/Questions.md",
+    "Education/Android/Knowledge Base/Middle Android/run, let, apply, also, with, use/run, let, apply, also, with, use.md",
+    "Education/Android/Knowledge Base/Middle Android/Design Patterns/Design Patterns.md",
+    "Education/Android/Knowledge Base/Middle Android/run, let, apply, also, with, use",
     "Books/Books/Роберт Чалдини - Психология влияния.md",
     "Books/Books to read.md",
     "Books/Books",
-    "Education/Android/Knowledge Base/Middle Android/Design Patterns/Design Patterns.md",
     "Books",
     "Education/Android/Knowledge Base/Middle Android/Process/Android Process.md",
     "Education/Android/Knowledge Base/Middle Android/Design Patterns",
@@ -190,7 +191,6 @@
     "Education/Android/Knowledge Base",
     "Welcome.md",
     "Education/Android/Middle Android",
-    "Education/Android",
-    "Education"
+    "Education/Android"
   ]
 }
