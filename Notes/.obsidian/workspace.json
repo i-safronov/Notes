@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Android/Knowledge Base/Middle Android/Inline functions/Inline functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7a953c9bdf13c72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Education/Android/Middle Android/Questions.md",
+                "file": "Books/Books/Роберт Чалдини - Психология влияния.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9b6a7903188ca9e4",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Android/Knowledge Base/Middle Android/Inline functions/Inline functions.md",
+                "file": "Books/Books/Роберт Чалдини - Психология влияния.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Android/Knowledge Base/Middle Android/Inline functions/Inline functions.md",
+                "file": "Books/Books/Роберт Чалдини - Психология влияния.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Android/Knowledge Base/Middle Android/Inline functions/Inline functions.md"
+                "file": "Books/Books/Роберт Чалдини - Психология влияния.md"
               }
             }
           }
