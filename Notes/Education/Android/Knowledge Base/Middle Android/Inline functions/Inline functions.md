@@ -23,9 +23,13 @@ fun main() {
 ## Reified 
 Позволяет работать именно с классом этого типа а так же позволяет работать с рефлексией, пример: 
 ```Kotlin
-inline fun <reified T> Example.calculate() {}
+inline fun <reified T> Example.calculate() {  }
 ```
 
 \
 ## Inline class 
 Во время компиляции исчезает сам класс и передается его параметр, так как он может содержать только один field, этот field и будет являться передаваемым параметром 
+```Kotlin
+inline class Node(val result: Int) {  }
+```
+

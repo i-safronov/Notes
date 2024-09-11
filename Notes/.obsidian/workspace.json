@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Android/Middle Android/Questions.md",
+                "file": "Education/Android/Knowledge Base/Middle Android/Object expression/Object expression.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Android/Knowledge Base/Middle Android/Inline functions/Inline functions.md",
+                "file": "Education/Android/Knowledge Base/Middle Android/Object expression/Object expression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Android/Knowledge Base/Middle Android/Inline functions/Inline functions.md",
+                "file": "Education/Android/Knowledge Base/Middle Android/Object expression/Object expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Android/Knowledge Base/Middle Android/Inline functions/Inline functions.md"
+                "file": "Education/Android/Knowledge Base/Middle Android/Object expression/Object expression.md"
               }
             }
           }
@@ -159,9 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89a7349b7f83c265",
+  "active": "b510da5ca85ecc8a",
   "lastOpenFiles": [
     "Education/Android/Middle Android/Questions.md",
+    "Education/Android/Knowledge Base/Middle Android/Object expression/Object expression.md",
+    "Education/Android/Knowledge Base/Middle Android/Object expression",
+    "Education/Android/Knowledge Base/Middle Android/Inline functions/Inline functions.md",
     "English/B1/B1.md",
     "Pasted image 20240911152331.png",
     "Courses to complete/Courses to complete.md",
@@ -169,7 +171,6 @@
     "English",
     "Books/Books/Роберт Чалдини - Психология влияния.md",
     "Courses to complete",
-    "Education/Android/Knowledge Base/Middle Android/Inline functions/Inline functions.md",
     "Education/Android/Knowledge Base/Middle Android/run, let, apply, also, with, use/run, let, apply, also, with, use.md",
     "Education/Android/Knowledge Base/Middle Android/Inline functions",
     "Education/Android/Knowledge Base/Middle Android/Design Patterns/Design Patterns.md",
@@ -182,7 +183,6 @@
     "Education/Android/Knowledge Base/Middle Android/Process",
     "Education/Android/Knowledge Base/Middle Android/Checked and unchecked exception/Checked and unchecked exceptions.md",
     "Education/Android/Knowledge Base/Middle Android/Checked and unchecked exception/Pasted image 20240903062836.png",
-    "Education/Android/Knowledge Base/Middle Android/Checked and unchecked exception",
     "Welcome.md"
   ]
 }
