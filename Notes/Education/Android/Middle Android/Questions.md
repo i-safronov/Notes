@@ -13,7 +13,7 @@
 		[[run, let, apply, also, with, use]]
 
 9. Что такое inline-функции и ключевое слово reified?
-		[[]]
+		[[Inline functions]]
 
 11. Какая разница между crossinline и noinline?
 

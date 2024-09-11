@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Books/Роберт Чалдини - Психология влияния.md",
+                "file": "Education/Android/Middle Android/Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89a7349b7f83c265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Android/Knowledge Base/Middle Android/Inline functions/Inline functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Books/Роберт Чалдини - Психология влияния.md",
+                "file": "Education/Android/Knowledge Base/Middle Android/Inline functions/Inline functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Books/Роберт Чалдини - Психология влияния.md",
+                "file": "Education/Android/Knowledge Base/Middle Android/Inline functions/Inline functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Books/Роберт Чалдини - Психология влияния.md"
+                "file": "Education/Android/Knowledge Base/Middle Android/Inline functions/Inline functions.md"
               }
             }
           }
@@ -146,11 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b510da5ca85ecc8a",
+  "active": "89a7349b7f83c265",
   "lastOpenFiles": [
-    "Education/Android/Knowledge Base/Middle Android/Inline functions/Inline functions.md",
     "Education/Android/Middle Android/Questions.md",
+    "English/B1/B1.md",
+    "Pasted image 20240911152331.png",
+    "Courses to complete/Courses to complete.md",
+    "English/B1",
+    "English",
     "Books/Books/Роберт Чалдини - Психология влияния.md",
+    "Courses to complete",
+    "Education/Android/Knowledge Base/Middle Android/Inline functions/Inline functions.md",
     "Education/Android/Knowledge Base/Middle Android/run, let, apply, also, with, use/run, let, apply, also, with, use.md",
     "Education/Android/Knowledge Base/Middle Android/Inline functions",
     "Education/Android/Knowledge Base/Middle Android/Design Patterns/Design Patterns.md",
@@ -164,9 +183,6 @@
     "Education/Android/Knowledge Base/Middle Android/Checked and unchecked exception/Checked and unchecked exceptions.md",
     "Education/Android/Knowledge Base/Middle Android/Checked and unchecked exception/Pasted image 20240903062836.png",
     "Education/Android/Knowledge Base/Middle Android/Checked and unchecked exception",
-    "Education/Android/Knowledge Base/Middle Android",
-    "Education/Android/Knowledge Base",
-    "Welcome.md",
-    "Education/Android/Middle Android"
+    "Welcome.md"
   ]
 }
