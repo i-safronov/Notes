@@ -25,48 +25,50 @@
 15. Приведите пример делегатов в Kotlin. (by delegate)
 	[[Delegates]]
 
-17. Тип Nothing
+17. Тип Nothing 
+	 [[Nothing]]
 
-18. Какая польза от typealias? Во что он компилируется?
+19. Какая польза от typealias? Во что он компилируется?
+	[[Typealias]]
 
-19. Value (бывшие inline) классы
+21. Value (бывшие inline) классы
 
-20. Когда необходимо использовать foreground service вместо обычного service?
+22. Когда необходимо использовать foreground service вместо обычного service?
 
-21. Что такое BroadcastReceiver и какие типы существуют?
+23. Что такое BroadcastReceiver и какие типы существуют?
 
-22. Что такое WorkManager? Когда его используем?
+24. Что такое WorkManager? Когда его используем?
 
-23. Разница между commit() и apply() в SharedPreferences?
+25. Разница между commit() и apply() в SharedPreferences?
 
-24. Объясните Scoped Storage в Android
+26. Объясните Scoped Storage в Android
 
-25. Как передавать Callback в Fragments
+27. Как передавать Callback в Fragments
 
-26. Что такое Multidex в Android?
+28. Что такое Multidex в Android?
 
-27. Что такое Job?
+29. Что такое Job?
 
-28. Что такое Dispatcher? Какие есть виды?
+30. Что такое Dispatcher? Какие есть виды?
 
-29. Что такое Scope?
+31. Что такое Scope?
 
-30. Объясните, как работает suspend-функция? Что такое continuation?
+32. Объясните, как работает suspend-функция? Что такое continuation?
 
-31. Как остановить/отменить Coroutines?
+33. Как остановить/отменить Coroutines?
 
-32. Flow debounce, zip, combine.
+34. Flow debounce, zip, combine.
 
-33. suspendCoroutine
+35. suspendCoroutine
 
-34. SideEffects
+36. SideEffects
 
-35. CompositionLocal
+37. CompositionLocal
 
-36. Что делает remember и rememberSavable в Composable?
+38. Что делает remember и rememberSavable в Composable?
 
-37. Как обрабатывать изменения ориентации в Jetpack Compose?
+39. Как обрабатывать изменения ориентации в Jetpack Compose?
 
-38. Что такое инверсия зависимости (dependency inversion)?
+40. Что такое инверсия зависимости (dependency inversion)?
 
-39. Что такое Multipart Request в сетевом взаимодействии?
+41. Что такое Multipart Request в сетевом взаимодействии?
