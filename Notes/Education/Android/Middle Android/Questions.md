@@ -32,43 +32,44 @@
 	[[Typealias]]
 
 21. Value (бывшие inline) классы
+	[[Value(inline) classes]]
 
-22. Когда необходимо использовать foreground service вместо обычного service?
+23. Когда необходимо использовать foreground service вместо обычного service?
 
-23. Что такое BroadcastReceiver и какие типы существуют?
+24. Что такое BroadcastReceiver и какие типы существуют?
 
-24. Что такое WorkManager? Когда его используем?
+25. Что такое WorkManager? Когда его используем?
 
-25. Разница между commit() и apply() в SharedPreferences?
+26. Разница между commit() и apply() в SharedPreferences?
 
-26. Объясните Scoped Storage в Android
+27. Объясните Scoped Storage в Android
 
-27. Как передавать Callback в Fragments
+28. Как передавать Callback в Fragments
 
-28. Что такое Multidex в Android?
+29. Что такое Multidex в Android?
 
-29. Что такое Job?
+30. Что такое Job?
 
-30. Что такое Dispatcher? Какие есть виды?
+31. Что такое Dispatcher? Какие есть виды?
 
-31. Что такое Scope?
+32. Что такое Scope?
 
-32. Объясните, как работает suspend-функция? Что такое continuation?
+33. Объясните, как работает suspend-функция? Что такое continuation?
 
-33. Как остановить/отменить Coroutines?
+34. Как остановить/отменить Coroutines?
 
-34. Flow debounce, zip, combine.
+35. Flow debounce, zip, combine.
 
-35. suspendCoroutine
+36. suspendCoroutine
 
-36. SideEffects
+37. SideEffects
 
-37. CompositionLocal
+38. CompositionLocal
 
-38. Что делает remember и rememberSavable в Composable?
+39. Что делает remember и rememberSavable в Composable?
 
-39. Как обрабатывать изменения ориентации в Jetpack Compose?
+40. Как обрабатывать изменения ориентации в Jetpack Compose?
 
-40. Что такое инверсия зависимости (dependency inversion)?
+41. Что такое инверсия зависимости (dependency inversion)?
 
-41. Что такое Multipart Request в сетевом взаимодействии?
+42. Что такое Multipart Request в сетевом взаимодействии?
