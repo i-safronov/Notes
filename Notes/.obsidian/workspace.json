@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Android/Middle Android/Questions.md",
+                "file": "Education/Android/Knowledge Base/Middle Android/WorkManager/WorkManager.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Android/Knowledge Base/Middle Android/Broadcast Receiver/Broadcast Receiver.md",
+                "file": "Education/Android/Knowledge Base/Middle Android/WorkManager/WorkManager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Android/Knowledge Base/Middle Android/Broadcast Receiver/Broadcast Receiver.md",
+                "file": "Education/Android/Knowledge Base/Middle Android/WorkManager/WorkManager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Android/Knowledge Base/Middle Android/Broadcast Receiver/Broadcast Receiver.md"
+                "file": "Education/Android/Knowledge Base/Middle Android/WorkManager/WorkManager.md"
               }
             }
           }
@@ -158,9 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd06bba79b524cf1",
+  "active": "878299eb37e42379",
   "lastOpenFiles": [
     "Education/Android/Middle Android/Questions.md",
+    "Education/Android/Knowledge Base/Middle Android/WorkManager/WorkManager.md",
+    "Education/Android/Knowledge Base/Middle Android/WorkManager",
     "Education/Android/Knowledge Base/Middle Android/Broadcast Receiver/Broadcast Receiver.md",
     "Education/Android/Knowledge Base/Middle Android/Foreground service/Foreground service.md",
     "Education/Android/Knowledge Base/Middle Android/Broadcast Receiver",
@@ -182,7 +185,6 @@
     "English/B1",
     "English",
     "Books/Books/Роберт Чалдини - Психология влияния.md",
-    "Courses to complete",
     "Education/Android/Knowledge Base/Middle Android/run, let, apply, also, with, use/run, let, apply, also, with, use.md",
     "Education/Android/Knowledge Base/Middle Android/Design Patterns/Design Patterns.md",
     "Books/Books to read.md",

@@ -41,37 +41,38 @@
 	[[Broadcast Receiver]]
 
 3. Что такое WorkManager? Когда его используем?
+	[[]]
 
-4. Разница между commit() и apply() в SharedPreferences?
+5. Разница между commit() и apply() в SharedPreferences?
 
-5. Объясните Scoped Storage в Android
+6. Объясните Scoped Storage в Android
 
-6. Как передавать Callback в Fragments
+7. Как передавать Callback в Fragments
 
-7. Что такое Multidex в Android?
+8. Что такое Multidex в Android?
 
-8. Что такое Job?
+9. Что такое Job?
 
-9. Что такое Dispatcher? Какие есть виды?
+10. Что такое Dispatcher? Какие есть виды?
 
-10. Что такое Scope?
+11. Что такое Scope?
 
-11. Объясните, как работает suspend-функция? Что такое continuation?
+12. Объясните, как работает suspend-функция? Что такое continuation?
 
-12. Как остановить/отменить Coroutines?
+13. Как остановить/отменить Coroutines?
 
-13. Flow debounce, zip, combine.
+14. Flow debounce, zip, combine.
 
-14. suspendCoroutine
+15. suspendCoroutine
 
-15. SideEffects
+16. SideEffects
 
-16. CompositionLocal
+17. CompositionLocal
 
-17. Что делает remember и rememberSavable в Composable?
+18. Что делает remember и rememberSavable в Composable?
 
-18. Как обрабатывать изменения ориентации в Jetpack Compose?
+19. Как обрабатывать изменения ориентации в Jetpack Compose?
 
-19. Что такое инверсия зависимости (dependency inversion)?
+20. Что такое инверсия зависимости (dependency inversion)?
 
-20. Что такое Multipart Request в сетевом взаимодействии?
+21. Что такое Multipart Request в сетевом взаимодействии?
